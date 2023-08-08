@@ -22,9 +22,8 @@
 | **Software**  | ![Gazebo](http://img.shields.io/badge/Gazebo-eee?style=flat-square) ![Webots](http://img.shields.io/badge/-Webots-eee?style=flat-square) ![Matlab](http://img.shields.io/badge/-MATLAB-eee?style=flat-square) ![wolframmathematica](http://img.shields.io/badge/-Wolfram_Mathematica-eee?style=flat-square) ![3D_CAD](http://img.shields.io/badge/-CATIA_SolidWorks_Pro/E-eee?style=flat-square) ![ABAQUS](http://img.shields.io/badge/-ABAQUS-eee?style=flat-square)			|
 
 <!-- Snake Code Contribution Map -->
-![](https://raw.githubusercontent.com/srall123/srall123/main/assets/github-contribution-grid-snake.svg)
 <picture>
-
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/srall123/srall123/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/srall123/srall123/profile-snake-contrib/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/srall123/srall123/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
