@@ -24,12 +24,6 @@
 <!-- ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=srall123&show_icons=true&theme=radical) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2052%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-208-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.8%20million%20lines%20of%20code-blue)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -70,5 +64,5 @@ hive_repo                4 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 08/08/2023 21:23:31 UTC
+ Last Updated on 08/08/2023 21:35:05 UTC
 <!--END_SECTION:waka-->
