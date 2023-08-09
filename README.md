@@ -28,9 +28,9 @@
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/srall123/srall123/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture> -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+  <img alt="github-snake" src="./assets/github-snake.svg" />
 </picture>
 
 <!-- ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=srall123&show_icons=true&theme=radical) -->
