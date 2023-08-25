@@ -61,12 +61,13 @@ Sunday                   21 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     3 mins              ███████████████░░░░░░░░░░   59.60 % 
+Markdown                 2 mins              ██████████░░░░░░░░░░░░░░░   40.40 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Inception                5 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/08/2023 23:44:05 UTC
+ Last Updated on 25/08/2023 23:44:13 UTC
 <!--END_SECTION:waka-->
