@@ -61,12 +61,12 @@ Sunday                   21 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        27 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+2，标准例程-HAL库版本            27 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/10/2023 23:43:46 UTC
+ Last Updated on 14/10/2023 23:44:03 UTC
 <!--END_SECTION:waka-->
