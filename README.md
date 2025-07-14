@@ -61,13 +61,12 @@ Sunday                   139 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 44 mins             █████████████████████████   98.63 % 
-C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ballistics_calculator    45 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 13/07/2025 23:48:54 UTC
+ Last Updated on 14/07/2025 23:47:10 UTC
 <!--END_SECTION:waka-->
