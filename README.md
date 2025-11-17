@@ -61,13 +61,12 @@ Sunday                   140 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    1 hr 14 mins        ████████████████████████░   96.38 % 
-JavaScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-lhba                     1 hr 17 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 16/11/2025 23:44:35 UTC
+ Last Updated on 17/11/2025 23:44:56 UTC
 <!--END_SECTION:waka-->
