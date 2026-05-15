@@ -36,37 +36,6 @@
 <!-- ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=srall123&show_icons=true&theme=radical) -->
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                182 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
-🌆 Daytime                272 commits         █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
-🌃 Evening                765 commits         ██████████████░░░░░░░░░░░   55.23 % 
-🌙 Night                  166 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   119 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
-Tuesday                  238 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
-Wednesday                276 commits         █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
-Thursday                 210 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-Friday                   240 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
-Saturday                 161 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-Sunday                   141 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 14/05/2026 01:30:18 UTC
+ Last Updated on 15/05/2026 01:26:57 UTC
 <!--END_SECTION:waka-->
