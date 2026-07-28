@@ -36,6 +36,8 @@
 <!-- ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=srall123&show_icons=true&theme=radical) -->
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2043%20mins-blue?style=flat)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -67,6 +69,12 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
+🤖 **AI Coding This Week** 
 
- Last Updated on 27/07/2026 01:14:44 UTC
+```text
+No AI Coding Activity Tracked This Week
+```
+
+
+ Last Updated on 28/07/2026 01:00:50 UTC
 <!--END_SECTION:waka-->
